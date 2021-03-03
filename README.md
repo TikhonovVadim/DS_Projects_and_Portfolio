@@ -1,2 +1,2 @@
 # hello-world
-data analysis and code study 
+I study data analysis and code  
