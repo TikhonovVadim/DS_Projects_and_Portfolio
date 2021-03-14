@@ -1,2 +1,2 @@
 # hello-world
-I study data analysis and code  
+I study data analysis and code (beginning) 
