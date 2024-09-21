@@ -1,4 +1,4 @@
-В этом репозитории собраны проекты выполненные по курсу Data Science в Yandex Practicum в 2023 году, а также другие проекты в области Data Science. Каждый проект находится в отдельной папке, в файле readme есть краткое описание проекта.
+В данном репозитории собраны проекты выполненные по курсу Data Science в Yandex Practicum, а также другие проекты в области Data Science. Каждый проект находится в отдельной папке, в файле readme есть краткое описание проекта.
 
 This repository contains projects completed on the course Data Science in Yandex Practicum in 2023, as well as other projects in Data Science. Each project is located in a separate folder, there is a brief description of the project in the readme file.
 
@@ -14,4 +14,5 @@ This repository contains projects completed on the course Data Science in Yandex
 |08| [Выбор_локации_для_скважин_Линейная_регрессия](https://github.com/TikhonovVadim/DS_projects_and_portfolio/blob/main/_08_Выбор_локации_для_скважин/Проект_спринт_11_Выбор_локации_для_скважины.ipynb) | Построить модель Логистической регрессии. Применить технику Bootstrap с 1000 выборок, чтобы найти распределение прибыли | pandas, matplotlib, seaborn, sklearn |
 |09| [Восстановление золота из руды_Несколько_моделей](https://github.com/TikhonovVadim/DS_projects_and_portfolio/blob/main/09_Восстановление_золота_из_руды/Проект_спринт_12_Сборный_проект_2_Восстановление_золота_из_руды.ipynb) | Построить несколько моделей для предсказания значения обогащения золота. Кросс-валидация | pandas, matplotlib, seaborn, sklearn |
 |10| [Линейная_алгебра](https://github.com/TikhonovVadim/DS_projects_and_portfolio/blob/main/10_Линейная_алгебра/10_Проект_спринт_13_Линейная_алгебра.ipynb) | Изучить алгоритм линейной регресии. Сделать шифрование данных через умножение на обратимую матрицу  | pandas, numpy, sklearn |
+|11| [Численные_методы_Градиентный_бустинг](https://github.com/TikhonovVadim/DS_projects_and_portfolio/blob/main/11_Численные_методы/11_Проект_спринт_14_Численные_методы.ipynb) | Посмтроить модель предсказания цены на авто на основе адлгоритма градиентного бустинга, использовать и проверить несколько моделей | pandas, numpy, matplotlib, sklearn, lightgbm, catboost, xgboost, time |
 
