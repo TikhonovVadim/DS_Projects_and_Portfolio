@@ -19,7 +19,6 @@ This repository contains projects completed on the course Data Science in Yandex
 |13| [Машинное_обучение_для_текстов](https://github.com/TikhonovVadim/DS_projects_) | Посмтроить модель  | pandas, numpy, matplotlib, sklearn |
 |14| [SQL_PySpark](https://github.com/TikhonovVadim/DS_projects_) | Посмтроить модель  | SQL, PySpark |
 |15| [Компьютерное_зрение](https://github.com/TikhonovVadim/DS_projects_) | Посмтроить модель  | pandas, numpy, matplotlib, sklearn |
-|16| [Компьютерное_зрение на GPU](https://github.com/TikhonovVadim/DS_projects_) | Посмтроить модель  | pandas, numpy, matplotlib, sklearn |
-|17| [Финальный_проект_Промышленность](https://github.com/TikhonovVadim/DS_projects_) | Посмтроить модель  | pandas, numpy, matplotlib, sklearn |
-|18| [Финальный_проект_Телеком](https://github.com/TikhonovVadim/DS_projects_) | Посмтроить модель  | pandas, numpy, matplotlib, sklearn |
+|16| [Финальный_проект_Промышленность](https://github.com/TikhonovVadim/DS_projects_) | Посмтроить модель  | pandas, numpy, matplotlib, sklearn |
+|17| [Финальный_проект_Телеком](https://github.com/TikhonovVadim/DS_projects_) | Посмтроить модель  | pandas, numpy, matplotlib, sklearn |
 
