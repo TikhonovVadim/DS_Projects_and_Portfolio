@@ -1,14 +1,8 @@
 В данном репозитории собраны проекты выполненные по курсу Data Science в Yandex Practicum, а также другие проекты в области Data Science. Каждый проект находится в отдельной папке, в файле readme есть краткое описание проекта.
-Мои контакты:
-•	e-mail:  vdmtkhnv@gmail.com   
-•	телеграм:  https://t.me/Vadim_Tihonov
-•	профиль на Stepik:  https://stepik.org/users/384942328
+Мои контакты: e-mail:  vdmtkhnv@gmail.com  |  телеграм:  https://t.me/Vadim_Tihonov  |  профиль на Stepik:  https://stepik.org/users/384942328
 
 This repository contains projects completed on the course Data Science in Yandex Practicum, as well as other projects in Data Science. Each project is located in a separate folder, there is a brief description of the project in the readme file.
-My contacts:
-•	e-mail:  vdmtkhnv@gmail.com   
-•	телеграм:  https://t.me/Vadim_Tihonov
-•	профиль на Stepik:  https://stepik.org/users/384942328
+My contacts:  e-mail:  vdmtkhnv@gmail.com  |  телеграм:  https://t.me/Vadim_Tihonov  |	профиль на Stepik:  https://stepik.org/users/384942328
 
 |№ | Название проекта | Описание | Используемые библиотеки | 
 |:-| :---------------------- | :---------------------- | :---------------------- |
