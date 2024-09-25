@@ -21,5 +21,6 @@
   - RandomForestRegressor с подбором гиперпараметров
 2. Сделана оценка метрики RMSE на валидационной выборке и отобран лучшей алгоритм для даной задачи и данных;
 
-3. Итог - лучший алгоритм для данной задачи и данных LinearRegression с параметрами для df max_lag,rolling_mean_size равными 168;
-RMSE LinearRegression на тестовой выборке для df с параметрами max_lag,rolling_mean_size равными 168 - 35.02
+3. Лучший алгоритм для данной задачи и данных LinearRegression с параметрами для df max_lag,rolling_mean_size равными 168;
+
+4. RMSE LinearRegression на тестовой выборке для df с параметрами max_lag,rolling_mean_size равными 168 - 35.02
