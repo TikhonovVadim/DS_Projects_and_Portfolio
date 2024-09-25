@@ -59,9 +59,9 @@
 1. Модель с лучшими результатами прогноза:
 - на стадии rougher - RandomForestRegressor(max_depth=3, n_estimators=10, random_state=12345)
 - на стадии финал - RandomForestRegressor(max_depth=2, n_estimators=20, random_state=12345)
-- Модель проверку на адекватностm проходит
+- модель проверку на адекватностm проходит
 
-оценка sMAPE на лучшей модели:
+2. оценка sMAPE на лучшей модели:
   - расчитанно итоговое sMAPE на data_train, на кросс-валидации с 4 фолдами = 8.45
   - расчитанно итоговое sMAPE на на data_test и фактических данных data_full, на всей выборке = 7.73
   - расчитанно итоговое sMAPE на константных данных (DummyRegressor(strategy="mean") = 18.89
