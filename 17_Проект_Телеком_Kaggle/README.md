@@ -42,3 +42,23 @@ https://www.kaggle.com/c/advanced-dls-spring-2021/leaderboard
 - IsBillingPaperless          
 - PaymentMethod               
 - Churn 
+
+# Основные выводы
+1. лучшая оценка auc_roc на обучающей выборке у модели CatBoostClassifier  =  0.858
+
+- параметры модели:
+
+    - catboost.core.CatBoostClassifier
+    - {'auto_class_weights': 'Balanced', 'depth': 2, 'iterations': 200, 'learning_rate': 0.1}
+
+2. десять наиболее значимых признаков в данных для решения задачи:
+    - 'HasContractPhone'
+    - 'ClientPeriod'
+    - 'HasOnlineSecurityService'
+    - 'HasInternetService'
+    - 'TotalSpent'
+    - 'MonthlySpending'
+    - 'HasTechSupportAccess'
+    - 'PaymentMethod'
+    - 'IsBillingPaperless'
+    - 'HasOnlineTV'
