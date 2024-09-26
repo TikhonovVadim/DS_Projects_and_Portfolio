@@ -1,6 +1,6 @@
-В данном репозитории собраны проекты выполненные по курсу Data Science в Yandex Practicum, а также другие проекты в области Data Science. Каждый проект находится в отдельной папке, в файле readme есть краткое описание проекта.
+В данном репозитории собраны проекты выполненные по курсу Анализ данных и Data Science в Yandex Practicum, а также другие проекты в области Data Science. Каждый проект находится в отдельной папке, в файле readme есть краткое описание проекта.
 
-This repository contains projects completed on the course Data Science in Yandex Practicum, as well as other projects in Data Science. Each project is located in a separate folder, there is a brief description of the project in the readme file.
+This repository contains projects completed in the course of Data Analysis and in Yandex Practicum, as well as other projects in Data Science. Each project is located in a separate folder, there is a brief description of the project in the readme file.
 
 Мои контакты / My contacts:                                                                                                                                                               
 - e-mail:  vdmtkhnv@gmail.com                                                                                                                                                             
